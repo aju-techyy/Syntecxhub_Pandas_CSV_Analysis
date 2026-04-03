@@ -1,0 +1,8 @@
+order_id,date,region,category,product,units,unit_price,discount_pct,revenue
+1001,2024-01-05,North,Electronics,Laptop,3,850.0,10,2295.0
+1002,2024-01-12,South,Electronics,Phone,5,620.0,5,2945.0
+1003,2024-01-18,East,Furniture,Chair,10,145.0,0,1450.0
+1006,2024-02-20,South,Electronics,Tablet,6,430.0,10,2322.0
+1013,2024-05-05,North,Electronics,Phone,4,620.0,10,2232.0
+1016,2024-06-04,West,Electronics,Tablet,7,430.0,0,3010.0
+1018,2024-06-27,South,Electronics,Monitor,3,540.0,5,1539.0
